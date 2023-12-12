@@ -12,6 +12,11 @@ DynoHAT is a HAT PCB for the Raspberry Pi. It aims to combine three PCBs into on
 While all the circuits have been rated for 12V, the recommended battery voltage is 11.1V by Robotis is (3S Li-Po).
 
 
+# Planned Features
 ## To be added (v1.1)
 - Full HAT passthrough
 - OVP for protection against battery arrays over 12V
+
+## Planned for future
+- USB-PD charging for LiPo Battery
+- Battery Charger and Management IC
