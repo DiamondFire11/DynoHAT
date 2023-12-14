@@ -18,4 +18,4 @@ While all the circuits have been rated for 12V, the recommended battery voltage 
 
 ## Planned Features (v1.1)
 - USB-PD charging for LiPo Battery
-- Battery Charger and Management IC
+- Battery Charger and Management circuit
