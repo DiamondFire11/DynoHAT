@@ -2,7 +2,7 @@
 DynoHAT is a HAT PCB for the Raspberry Pi 3 and 4. It aims to combine three PCBs into one single HAT.
 DynoHAT is still a WIP. Many revisions are being made to the PCB as tests are being performed. When the PCB is ready for mass manufacturing a release will be made.
 
-![DynoHAT Top](https://github.com/DiamondFire11/DynoHAT/blob/main/docs/render/DynoHAT%20Top.PN?raw=true)
+![DynoHAT Top](https://github.com/DiamondFire11/DynoHAT/blob/main/docs/render/DynoHAT%20Top.PNG?raw=true)
 ![DynoHAT Bottom](https://github.com/DiamondFire11/DynoHAT/blob/main/docs/render/DynoHAT%20Bottom.PNG?raw=true)
 
 ## Integrated features
