@@ -18,5 +18,4 @@ If you would prefer full GPIO passthrough please use a stacking header like this
 While all the circuits have been rated for 12V, the recommended battery voltage is 11.1V by Robotis (3S Li-Po).
 
 ## Planned Features (v1.1)
-- Redesign the current power switch solution
 - I2C version to support more than one switched 11.1V output.
