@@ -16,6 +16,3 @@ If you would prefer full GPIO passthrough please use a stacking header like this
 
 ##### Do not use a battery that exceeds 12V as it will damage the board.
 While all the circuits have been rated for 12V, the recommended battery voltage is 11.1V by Robotis (3S Li-Po).
-
-## Planned Features (v1.1)
-- I2C version to support more than one switched 11.1V output.
