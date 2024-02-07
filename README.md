@@ -3,6 +3,8 @@ DynoHAT is a HAT PCB for the Raspberry Pi 3 and 4. It aims to combine three PCBs
 
 ![DynoHAT Bottom](https://github.com/DiamondFire11/DynoHAT/blob/main/docs/render/DynoHAT%20Top.PNG?raw=true)
 ![DynoHAT Bottom](https://github.com/DiamondFire11/DynoHAT/blob/main/docs/render/DynoHAT%20Bottom.PNG?raw=true)
+## CAN-FD IS A PLANNED FEATURE COMING SOON
+While the badging for CAN-FD is on the board, it is not yet implemented and still being tested. I placed the watermark so I do not forget to add it.
 
 ## Integrated features
 - Robotis U2D2 Power Hub board
