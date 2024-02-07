@@ -15,3 +15,21 @@ If you would prefer full GPIO passthrough please use a stacking header like this
 
 ##### Do not use a battery that exceeds 12V as it will damage the board.
 While all the circuits have been rated for 12V, the recommended battery voltage is 11.1V by Robotis (3S Li-Po).
+
+## Version History
+
+#### V1.0 - Initial Release
+Added:
+  - Integrated power features of U2D2 Power Hub board while increasing the maximum current that can be supplied to Dynamixel servos
+  - +11.1V supply for powering external loads (ON-OFF) switchable via Raspberry Pi
+  - +11.1V to +5V 4A supply for backpowering a Raspberry Pi via GPIO
+
+#### V1.1 - SparkFun Qwiic Integration
+Added:
+  - Broke out I2C bus from Raspberry Pi for integration with Qwiic
+      - Qwiic is powered via its own 3.3V LDO capable of up to 300mA of current
+  - 2 Qwiic connectors for daisy-chaining
+
+## Planned for Future Release
+- CAN-FD and CAN-FD driver
+- Li-Ion/Li-PO over voltage protection (tentative)
